@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: The MI-Motion Dataset for 3D Multi-Person Motion Prediction
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
