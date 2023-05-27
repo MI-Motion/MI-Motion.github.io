@@ -149,10 +149,12 @@
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Abstract</h2>
+        <h2 class="title is-3">Dataset</h2>
         <div class="content has-text-justified">
           <p>
-            3D multi-person motion prediction is a challenging task that involves modeling individual behaviors and interactions between people. Despite the emergence of approaches for this task, comparing them is difficult due to the lack of standardized training settings and benchmark datasets. In this paper, we introduce the Multi-Person Interaction Motion (MI-Motion) Dataset, which includes skeleton sequences of multiple individuals collected by motion capture systems and refined using a game engine. The dataset contains 167k frames of interacting people's skeleton poses and is categorized into six different activity scenes. To facilitate research in multi-person motion prediction, we also provide benchmarks to evaluate the performance of prediction methods in two settings: (1) short-term prediction, where the goal is to forecast 25 frames based on the input of 25 frames, and (2) long-term prediction, where the goal is to forecast 50 frames based on the input of 25 frames. Furthermore, we propose a new baseline for future studies that uses hyperbolic graph convolutional networks to model complex hierarchical relationships. Our proposed baseline outperforms existing state-of-the-art methods on the MI-Motion dataset, demonstrating the effectiveness of hyperbolic graph convolutional networks for multi-person motion prediction. We anticipate that the proposed MI-Motion benchmark dataset and baseline will facilitate future research in this area, ultimately leading to better understanding and modeling of multi-person interactions.
+                Our MI-Motion Dataset comprises approximately 167k sequence frames involving 3~6 subjects. Each subject is represented by 20 body 3D keypoints, 
+            and performed interactions with other individuals with different interaction levels. To simulate various activity scenes, 
+            we divide the dataset into five subsets: park, street, indoor, special locations, and complex crowd.
           </p>
         </div>
       </div>
@@ -163,11 +165,11 @@
 <table>
   <tr>
     <th align="center">    </th>
-    <th align="center" style="font-style:italic;font-weight: lighter;">Park</th> <!--th标签：表格头，内容居中，加粗显示-->
-    <th align="center" style="font-style:italic;font-weight: lighter;">Indoor</th>
-    <th align="center" style="font-style:italic;font-weight: lighter;">Street</th>
-    <th align="center" style="font-style:italic;font-weight: lighter;">Special Locations</th>
-    <th align="center" style="font-style:italic;font-weight: lighter;">Complex Crowd</th>
+    <th align="center" style="font-style:italic;font-weight: lighter;font-size: large;">Park</th> <!--th标签：表格头，内容居中，加粗显示-->
+    <th align="center" style="font-style:italic;font-weight: lighter;font-size: large;">Indoor</th>
+    <th align="center" style="font-style:italic;font-weight: lighter;font-size: large;">Street</th>
+    <th align="center" style="font-style:italic;font-weight: lighter;font-size: large;">Special Locations</th>
+    <th align="center" style="font-style:italic;font-weight: lighter;font-size: large;">Complex Crowd</th>
   </tr>
   <tr>
     <th style="text-align: center;vertical-align: middle;">HRI</th>
