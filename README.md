@@ -3,7 +3,11 @@
 ## Getting Started
 
 
-The pure IMU part of the MI-Motion dataset can be directly downloaded from [![Baidu Disk](https://img.shields.io/badge/Baidu_Disk-PWD:2v41-white)](https://pan.baidu.com/s/1KT0YRxbcqYoyremod-0T7Q). For the remaining parts, a download link will be sent to your email after permission is granted. You can also download the pretrained models of all the baselines in [![Google Drive](https://img.shields.io/badge/Google-Drive-blue)](https://drive.google.com/drive/folders/13ZD0BHzADmWzkXs_lxZdbhULLlsIMwkb?usp=sharing). More details could be found in the [Project Page](https://mi-motion.github.io/).
+The pure IMU part of the MI-Motion dataset can be directly downloaded from [![Baidu Disk](https://img.shields.io/badge/Baidu_Disk-PWD:2v41-white)](https://pan.baidu.com/s/1KT0YRxbcqYoyremod-0T7Q).
+
+For the **synthetic part**, access requires signing a data usage agreement (similar to standard academic dataset permission forms). Please send the signed agreement to [xiaozhou@hdu.edu.cn](mailto:xiaozhou@hdu.edu.cn). Once permission is granted, a download link will be sent to the email address provided in the agreement.
+
+You can also download the pretrained models of all the baselines in [![Google Drive](https://img.shields.io/badge/Google-Drive-blue)](https://drive.google.com/drive/folders/13ZD0BHzADmWzkXs_lxZdbhULLlsIMwkb?usp=sharing). More details could be found in the [Project Page](https://mi-motion.github.io/).
 <br/>
 
 
