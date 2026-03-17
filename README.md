@@ -3,7 +3,7 @@
 ## Getting Started
 
 
-The **pure IMU part** of the MI-Motion dataset is now publicly available and can be directly downloaded from [![Baidu Disk](https://img.shields.io/badge/Baidu_Disk-PWD:2v41-white)](https://pan.baidu.com/s/1KT0YRxbcqYoyremod-0T7Q).
+The **pure IMU part** of the MI-Motion dataset is now publicly available and can be directly downloaded from [![Baidu Disk](https://img.shields.io/badge/Baidu_Disk-PWD:2v41-white)](https://pan.baidu.com/s/1No9Ks55IMlCy65-keqUvMQ).
 
 For the **synthetic part**, access requires signing a data access agreement. Please follow these steps:
 1. Download and fill in the [MI-Motion Data Access Agreement](MI-Motion_Data_Access_Agreement_v2.docx).
